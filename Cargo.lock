@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "just-for-test"
+name = "justForTest"
 version = "0.1.0"
